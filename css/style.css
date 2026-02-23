@@ -18,6 +18,8 @@ body {
     letter-spacing: 0.2rem;
     line-height: 1.8rem;
 }
+title {
+    font-weight: bold;
 h2 {
     margin-top: 0;
     font-size: 1.3em;
@@ -258,3 +260,4 @@ margin-top: 5%;
     }
 
 }
+
